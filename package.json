@@ -1,0 +1,14 @@
+{
+  "name": "solana-program-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jintao-zero/solana-program-examples.git",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
