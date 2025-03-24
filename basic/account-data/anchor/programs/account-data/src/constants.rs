@@ -1,1 +1,1 @@
-pub const ANCHOR_DISCRIMINATOR_SIZE: usize = 0; 
+pub const ANCHOR_DISCRIMINATOR_SIZE: usize = 8;
